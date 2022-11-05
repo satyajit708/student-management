@@ -4,9 +4,6 @@ Attendance Management System Node Js project
 Requirements:
 Node Js
 My SQL
-
-How to Use:
-Download zip project and extract.
 Install Node 
 npm init
 import sql file to mysql
